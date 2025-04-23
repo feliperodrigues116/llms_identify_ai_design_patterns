@@ -1,0 +1,81 @@
+Name,Similarity
+Encapsulating ML Models within Rule-based Safeguards,4
+Pipes and Filters,4
+Client-Server,4
+Model-View-Controller (MVC),4
+Multi-Layer Pattern,5
+Player-Role Pattern,4
+Ethics credentials,4
+AI Mode Switcher,4
+Decision Mode Switcher,4
+(Both solutions address the complexity of AI and facilitate risk assessment, but Solution 2 specifically focuses on explainability and transparency, while Solution 1 covers different decision-making modes.)
+Audit Black Box,5
+AI Pipelines,5
+Secure Virtual Premise (SVP),4
+Fluid Architecture,4
+(They share many similarities in addressing the limitations of classical architecture and UX patterns in AI contexts.)
+Distinguish Business Logic from
+ML Model,4
+Delegation of Safety Responsibility,4
+(Solution 1 is a brief summary of delegation, whereas Solution 2 provides detailed explanation of how to manage safety challenges through integration and segregation. Although they both address Delegation of Safety Responsibility, Solution 1 is more vague in comparison to Solution 2 which provides more details on implementation and approach.)
+Partial Rejection of Safety Responsibility,4
+Both solutions deal with the safety responsibility in AI-based systems by addressing the challenges introduced by ML/DL models. While Solution 1 is more generic, it still implies a need for caution or additional processing before making decisions based on model outputs. Solution 2 provides a more detailed approach to addressing these issues, but the underlying goal of ensuring reliable and safe operation is shared between both solutions.
+Full Acceptance of Safety Responsibility,4
+(I interpreted "Verify certain safety properties" as verifying specific properties against which the model's performance will be evaluated. Solution 2 also verifies and ensures safety but in a more comprehensive manner, making them moderately similar.)
+Lambda Architecture Pattern,5
+Deploy canary model,5
+Stateless Serving Function,4
+Continued Model Evaluation,4
+Both solutions emphasize continuous monitoring of a deployed model's performance using predefined metrics and thresholds to detect degradation and trigger automated actions. The primary difference lies in Solution 2's more detailed approach, including a feedback loop for automatic detection and specific scenarios like retraining with updated data or alerting stakeholders.
+Batch Serving,5
+Workflow Pipeline,4
+Proxy Pattern,4
+Mediator Pattern,5
+Continuous Integration and Deployment,5
+Infrastructure as Code,4
+End-To-End Tests,4
+Alarms And Notifications On Processes,4
+(Solution 2 is more comprehensive and structured, but both solutions aim to detect errors and notify stakeholders, which makes them 'Very similar'.)
+Functional-Style Architecture,4
+Legacy,4
+Both solutions involve integrating an older, legacy approach with a new one (ML-based), but Solution 2 provides more details on how to achieve this integration in a controlled and minimally disruptive manner.
+Shadow,3
+(They both address integration with a legacy system without requiring changes to it or the dependent system, but Solution 2 provides more detail on how that integration is managed.)
+Chop Shop,4
+Internal Feedback,4
+Handshake or "Hand Buzzer,4
+Replay,4
+Tar pit,4
+The key idea in both solutions is to avoid immediately rejecting or flagging bad actors, instead focusing on making it difficult for them to evolve and create new entities quickly.
+Giveaway,4
+Two-Phase Predictions,4
+Model Embedded in Application,4
+Dedicated Model API,4
+Model Published as Data,4
+Strategy Pattern,4
+Offline Predictions,4
+Web single pattern,4
+Synchronous pattern,4
+(Both solutions involve blocking or delaying the workflow until some task is completed, but Solution 2 takes a more proactive approach by decoupling the tasks and handling them in the background)
+Asynchronous pattern,4
+Microservice vertical pattern,4
+(Solutions 1 and 2 share a similar concept, but Solution 2 provides more detailed information about structuring the pipeline and managing dependencies.)
+Microservice horizontal pattern,5
+Prediction cache pattern,4
+Data cache pattern,5
+Circuit break pattern,4
+Prep-pred pattern,4
+(I'd rate it a 4 because both solutions aim to separate preprocessing and prediction, but Solution 2 provides more detail on how to achieve this through a microservices architecture.)
+Serving template pattern,4
+Model-in-image pattern,4
+Parameter-based serving pattern,4
+Model-load pattern,4
+Data Warehouse for ML,4
+Closed Loop intelligence,4
+Daisy Architecture,4
+Kappa Architecture Pattern,4
+(or "Very similar")
+Data Lake (for ML),4
+Discard PoC code,4
+Parameter-Server Abstraction,4
+Condition-based-serving pattern,4

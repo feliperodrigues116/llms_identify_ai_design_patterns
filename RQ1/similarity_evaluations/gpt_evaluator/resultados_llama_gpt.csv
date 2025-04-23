@@ -1,0 +1,67 @@
+Name,Similarity
+Encapsulating ML Models within Rule-based Safeguards,5
+Pipes and Filters,2
+Client-Server,3
+Model-View-Controller (MVC),2
+Multi-Layer Pattern,5
+Player-Role Pattern,2
+Ethics credentials,4
+AI Mode Switcher,2
+Decision Mode Switcher,2
+Audit Black Box,4
+AI Pipelines,5
+Secure Virtual Premise (SVP),3
+Fluid Architecture,3
+Distinguish Business Logic from
+ML Model,2
+Delegation of Safety Responsibility,2
+Partial Rejection of Safety Responsibility,3
+Full Acceptance of Safety Responsibility,3
+Lambda Architecture Pattern,2
+Deploy canary model,5
+Stateless Serving Function,2
+Continued Model Evaluation,5
+Batch Serving,4
+Workflow Pipeline,4
+Proxy Pattern,5
+Mediator Pattern,4
+Continuous Integration and Deployment,2
+Infrastructure as Code,4
+End-To-End Tests,3
+Alarms And Notifications On Processes,4
+Functional-Style Architecture,4
+Legacy,3
+Shadow,2
+Chop Shop,2
+Internal Feedback,2
+Handshake or "Hand Buzzer,4
+Replay,4
+Tar pit,2
+Giveaway,1
+Two-Phase Predictions,3
+Model Embedded in Application,1
+Dedicated Model API,4
+Model Published as Data,3
+Strategy Pattern,4
+Offline Predictions,2
+Web single pattern,3
+Synchronous pattern,2
+Asynchronous pattern,2
+Microservice vertical pattern,4
+Microservice horizontal pattern,4
+Prediction cache pattern,5
+Data cache pattern,4
+Circuit break pattern,2
+Prep-pred pattern,5
+Serving template pattern,4
+Model-in-image pattern,2
+Parameter-based serving pattern,3
+Model-load pattern,2
+Data Warehouse for ML,4
+Closed Loop intelligence,2
+Daisy Architecture,4
+Kappa Architecture Pattern,1
+Data Lake (for ML),4
+Discard PoC code,3
+Parameter-Server Abstraction,2
+Condition-based-serving pattern,5
