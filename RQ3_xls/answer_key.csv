@@ -1,19 +1,19 @@
-Pattern,Has Problem,Candidate A →,Candidate B →,Candidate C →,Candidate D →,Seed
-Strategy Pattern,YES,Literature,GPT o1,Claude,Gemini,20250907
-Data Lake (for ML),YES,Literature,Gemini,Claude,GPT o1,20250907
-Delegation of Safety Responsibility,YES,Claude,GPT o1,Gemini,Literature,20250907
-Mediator Pattern,YES,Claude,GPT o1,Gemini,Literature,20250907
-Infrastructure as Code,YES,GPT o1,Claude,Literature,Gemini,20250907
-Multi-Layer Pattern,YES,Literature,Gemini,GPT o1,Claude,20250907
-Data cache pattern,YES,Literature,GPT o1,Claude,Gemini,20250907
-Dedicated Model API,YES,Literature,Claude,GPT o1,Gemini,20250907
-Batch Serving,YES,GPT o1,Literature,Claude,Gemini,20250907
-Distinguish Business Logic from ML Model,YES,Claude,Literature,Gemini,GPT o1,20250907
-Prediction cache pattern,YES,Gemini,Literature,Claude,GPT o1,20250907
-Tar pit,YES,Gemini,Claude,GPT o1,Literature,20250907
-Chop Shop,YES,Gemini,Literature,GPT o1,Claude,20250907
-Closed Loop intelligence,YES,GPT o1,Gemini,Claude,Literature,20250907
-Synchronous pattern,YES,Gemini,Literature,Claude,GPT o1,20250907
-Model Embedded in Application,YES,GPT o1,Claude,Gemini,Literature,20250907
-Player-Role Pattern,YES,Claude,GPT o1,Gemini,Literature,20250907
-Decision Mode Switcher,YES,GPT o1,Claude,Literature,Gemini,20250907
+Pattern,Candidate A →,Candidate B →,Candidate C →,Candidate D →
+Strategy Pattern,Literature,GPT o1,Claude,Gemini
+Data Lake (for ML),Literature,Gemini,Claude,GPT o1
+Delegation of Safety Responsibility,Claude,GPT o1,Gemini,Literature
+Mediator Pattern,Claude,GPT o1,Gemini,Literature
+Infrastructure as Code,GPT o1,Claude,Literature,Gemini
+Multi-Layer Pattern,Literature,Gemini,GPT o1,Claude
+Data cache pattern,Literature,GPT o1,Claude,Gemini
+Dedicated Model API,Literature,Claude,GPT o1,Gemini
+Batch Serving,GPT o1,Literature,Claude,Gemini
+Distinguish Business Logic from ML Model,Claude,Literature,Gemini,GPT o1
+Prediction cache pattern,Gemini,Literature,Claude,GPT o1
+Tar pit,Gemini,Claude,GPT o1,Literature
+Chop Shop,Gemini,Literature,GPT o1,Claude
+Closed Loop intelligence,GPT o1,Gemini,Claude,Literature
+Synchronous pattern,Gemini,Literature,Claude,GPT o1
+Model Embedded in Application,GPT o1,Claude,Gemini,Literature
+Player-Role Pattern,Claude,GPT o1,Gemini,Literature
+Decision Mode Switcher,GPT o1,Claude,Literature,Gemini
