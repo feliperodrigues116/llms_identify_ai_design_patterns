@@ -1,0 +1,19 @@
+Pattern,Has Problem,Candidate A →,Candidate B →,Candidate C →,Candidate D →,Seed
+Strategy Pattern,YES,Literature,GPT o1,Claude,Gemini,20250907
+Data Lake (for ML),YES,Literature,Gemini,Claude,GPT o1,20250907
+Delegation of Safety Responsibility,YES,Claude,GPT o1,Gemini,Literature,20250907
+Mediator Pattern,YES,Claude,GPT o1,Gemini,Literature,20250907
+Infrastructure as Code,YES,GPT o1,Claude,Literature,Gemini,20250907
+Multi-Layer Pattern,YES,Literature,Gemini,GPT o1,Claude,20250907
+Data cache pattern,YES,Literature,GPT o1,Claude,Gemini,20250907
+Dedicated Model API,YES,Literature,Claude,GPT o1,Gemini,20250907
+Batch Serving,YES,GPT o1,Literature,Claude,Gemini,20250907
+Distinguish Business Logic from ML Model,YES,Claude,Literature,Gemini,GPT o1,20250907
+Prediction cache pattern,YES,Gemini,Literature,Claude,GPT o1,20250907
+Tar pit,YES,Gemini,Claude,GPT o1,Literature,20250907
+Chop Shop,YES,Gemini,Literature,GPT o1,Claude,20250907
+Closed Loop intelligence,YES,GPT o1,Gemini,Claude,Literature,20250907
+Synchronous pattern,YES,Gemini,Literature,Claude,GPT o1,20250907
+Model Embedded in Application,YES,GPT o1,Claude,Gemini,Literature,20250907
+Player-Role Pattern,YES,Claude,GPT o1,Gemini,Literature,20250907
+Decision Mode Switcher,YES,GPT o1,Claude,Literature,Gemini,20250907
