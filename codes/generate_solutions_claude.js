@@ -18,8 +18,6 @@ async function chamadaClaude(messages, maxTokens = 200, temperature = 0.4) {
   try {
     const response = await anthropic.messages.create({
       model: model,
-      max_tokens: maxTokens,
-      temperature: temperature,
       messages: messages
     });
 
